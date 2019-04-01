@@ -11,7 +11,9 @@
         <title>Spring MVC Demo</title>
     </head>
     <body>
-    Welcome to Spring MVC - Main Menu Page!
+    <h2>Welcome to Spring MVC - Main Menu Page!</h2>
+    <hr>
+    <a href="hello/showForm">Hello World Form</a>
     </body>
 </html>
 
